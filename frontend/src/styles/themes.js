@@ -1,0 +1,43 @@
+export const lightTheme = {
+  background: '#f5f5f5',
+  cardBackground: '#ffffff',
+  text: '#333333',
+  primary: '#2563eb',
+  primaryHover: '#1d4ed8',
+  secondary: '#64748b',
+  success: '#10b981',
+  error: '#ef4444',
+  warning: '#f59e0b',
+  info: '#3b82f6',
+  border: '#e2e8f0',
+  inputBackground: '#ffffff',
+  disabled: '#9ca3af',
+  positive: '#10b981',
+  negative: '#ef4444',
+  chartGrid: '#e2e8f0',
+  chartLine: '#2563eb',
+  chartFill: 'rgba(37, 99, 235, 0.1)',
+  shadow: '0 4px 6px rgba(0, 0, 0, 0.1)'
+};
+
+export const darkTheme = {
+  background: '#1e293b',
+  cardBackground: '#334155',
+  text: '#f8fafc',
+  primary: '#3b82f6',
+  primaryHover: '#2563eb',
+  secondary: '#94a3b8',
+  success: '#10b981',
+  error: '#ef4444',
+  warning: '#f59e0b',
+  info: '#3b82f6',
+  border: '#475569',
+  inputBackground: '#1e293b',
+  disabled: '#64748b',
+  positive: '#10b981',
+  negative: '#ef4444',
+  chartGrid: '#475569',
+  chartLine: '#3b82f6',
+  chartFill: 'rgba(59, 130, 246, 0.1)',
+  shadow: '0 4px 6px rgba(0, 0, 0, 0.3)'
+};
